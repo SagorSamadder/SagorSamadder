@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/samaddersa18112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samaddersa18112" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sagor-samadder-2bb7a0269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sagor-samadder-2bb7a0269" height="30" width="40" /></a>
-<a href="https://fb.com/sagor.ss.1414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagor.ss.1414" height="30" width="40" /></a>
+<a href="https://fb.com/sagor.samader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagor.ss.1414" height="30" width="40" /></a>
 <a href="https://instagram.com/sagor_samadderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagor_samadderr" height="30" width="40" /></a>
 </p>
 
