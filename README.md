@@ -31,6 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagor1414&" alt="sagor1414" /></p>
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]([])
-
 <img align="right" alt="Coding" src="https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/gbann.png">
