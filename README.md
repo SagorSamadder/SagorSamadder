@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwgdGBToddI8pD4kPoswlzjSVM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmxExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SagorSamadder&label=Profile%20views&color=0e75b6&style=flat" alt="SagorSamadder" /> </p>
-[![](https://visitcount.itsvg.in/api?id=SagorSamadder&icon=6&color=9)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/samaddersa18112" target="blank"><img src="https://img.shields.io/twitter/follow/samaddersa18112?logo=twitter&style=for-the-badge" alt="samaddersa18112" /></a> </p>
 
