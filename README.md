@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SagorSamadder&label=Profile%20views&color=0e75b6&style=flat" alt="SagorSamadder" /> </p>
 
-<p align="left"> <a href="https://twitter.com/samaddersa18112" target="blank"><img src="https://img.shields.io/twitter/follow/samaddersa18112?logo=twitter&style=for-the-badge" alt="samaddersa18112" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sagorsamadderr" target="blank"><img src="https://img.shields.io/twitter/follow/samaddersa18112?logo=twitter&style=for-the-badge" alt="sagorsamadderr" /></a> </p>
 
 - 🔭 I’m currently working on **Track Back**
 
