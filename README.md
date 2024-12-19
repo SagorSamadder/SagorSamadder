@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SagorSamadder&" alt="SagorSamadder" /></p>
 
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/gbann.png">
+<img align="right" alt="SagorSamadder" src="https://media.licdn.com/dms/image/v2/D5616AQHIym6YsfC2lg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1692087199447?e=1740009600&v=beta&t=sAowkcmKqn8RdTJhYnwBL_S6PsVWjkI9DcfubdmYp68">
