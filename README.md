@@ -8,11 +8,13 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **Pythone,Laravel**
+- 🌱 I’m currently learning **Pythone, Laravel**
 
-- 💬 Ask me about **Flutter,Dart,PHP,MySQL**
+- 💬 Ask me about **Flutter, Dart, PHP, MySQL**
 
 - 📫 How to reach me **sagorsamadder.official@gmail.com**
+
+- ⏱️ I log my coding activity on [WakaTime](https://wakatime.com/@SagorSamadder)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
