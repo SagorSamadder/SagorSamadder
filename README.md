@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SagorSamadder&label=Profile%20views&color=0e75b6&style=flat" alt="SagorSamadder" /> </p> 
 
-[![wakatime](https://wakatime.com/badge/user/03963a5d-f5a9-4071-aab2-0d66ee0693dc.svg)](https://wakatime.com/@SagorSamadder)
+[![wakatime](https://wakatime.com/badge/user/03963a5d-f5a9-4071-aab2-0d66ee0693dc.svg)](https://wakatime.com/@03963a5d-f5a9-4071-aab2-0d66ee0693dc)
 
 <p align="left"> <a href="https://twitter.com/sagorsamadderr" target="blank"><img src="https://img.shields.io/twitter/follow/sagorsamadderr?logo=twitter&style=for-the-badge" alt="sagorsamadderr" /></a> </p>
 
