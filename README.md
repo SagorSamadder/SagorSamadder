@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **Pythone, Laravel**
+- 🌱 I’m currently learning **Python**, exploring **DevOps**, and diving into **Machine Learning**
 
 - 💬 Ask me about **Flutter, Dart, PHP, MySQL**
 
