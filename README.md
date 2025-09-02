@@ -41,8 +41,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SagorSamadder&" alt="SagorSamadder" /></p>
 
+## License
+[Sagor Samadder](https://github.com/SagorSamadder)
 
 ## ✨ Built By
-
 **[Sagor Samadder](https://github.com/SagorSamadder)**  
 *Software Engineer | Mobile Application Developer at BD Calling IT Ltd*
