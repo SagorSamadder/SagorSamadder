@@ -46,4 +46,4 @@
 
 ## ✨ Built By
 **[Sagor Samadder](https://github.com/SagorSamadder)**  
-*Software Engineer | Mobile Application Developer at BD Calling IT Ltd*
+*Software Engineer | Mobile Application Developer at SM Technology*
