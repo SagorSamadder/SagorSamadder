@@ -28,23 +28,23 @@
 
 ### Connect with me:
 
-<div>
+<p align="left">
   <a href="https://twitter.com/sagorsamadderr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagorsamadderr" height="30" width="40" />
-  </a>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>&nbsp;
   <a href="https://linkedin.com/in/sagor-samadder" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sagor-samadder" height="30" width="40" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="https://facebook.com/sagor.ss.1414" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagor.ss.1414" height="30" width="40" />
-  </a>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;
   <a href="https://instagram.com/sagor_samadderr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagor_samadderr" height="30" width="40" />
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
   <a href="https://wakatime.com/@03963a5d-f5a9-4071-aab2-0d66ee0693dc" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" height="30" width="40" />
+    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" />
   </a>
-</div>
+</p>
 
 ---
 
