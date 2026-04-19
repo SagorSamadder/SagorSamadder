@@ -29,9 +29,6 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://twitter.com/sagorsamadderr" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>&nbsp;
   <a href="https://linkedin.com/in/sagor-samadder" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
@@ -41,9 +38,9 @@
   <a href="https://instagram.com/sagor_samadderr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;
-  <a href="https://wakatime.com/@03963a5d-f5a9-4071-aab2-0d66ee0693dc" target="_blank">
-    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" />
-  </a>
+  <a href="https://twitter.com/sagorsamadderr" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>&nbsp;
 </p>
 
 ---
